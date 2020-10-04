@@ -1,0 +1,16 @@
+~*
+.DS_Store
+Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+*.egg-info/
+*.egg
+.mypy_cache/
+
+
+# Data files
+*.csv
